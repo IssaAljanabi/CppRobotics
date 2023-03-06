@@ -3,6 +3,7 @@
 	> Author: TAI Lei
 	> Mail: ltai@ust.hk
 	> Created Time: Sat Jul 20 12:38:43 2019
+	> Modfied Issa Aljanabi CI Git integation workshop5
  ************************************************************************/
 
 #include<iostream>
